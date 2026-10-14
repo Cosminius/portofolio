@@ -61,14 +61,6 @@ Turns RDF graphs stored in RDF4J into JSON and exposes them through a GraphQL AP
 
 ## IV. Backend & Software Engineering
 
-**[Library API](https://github.com/Cosminius/Library)**
-
-A REST API for managing books, with authentication and a SQLite database. Built with FastAPI, tested with pytest, and checked with ruff and mypy in GitHub Actions.
-
-**[Game Theory Algorithms](https://github.com/Cosminius/Game-Theory-Algorithms-Nash-Equilibria-and-Sequential-Game-Simulations)**
-
-Finds all pure Nash equilibria in two-player games and simulates sequential games.
-
 **[Restaurant Ordering App](https://github.com/Cosminius/Proiect_Comenzi_Restaurant)** and **[Restaurant Mobile App](https://github.com/Cosminius/MobileAppRestaurant)**
 
 A restaurant ordering web app in ASP.NET and its mobile version in .NET MAUI.
