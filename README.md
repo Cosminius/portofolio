@@ -31,6 +31,16 @@ A Flask app that tells real photos from AI-generated ones. A first model decides
 
 From my work through *Hands-On Machine Learning with Scikit-Learn and PyTorch* (Aurélien Géron), with the end-of-chapter exercises:
 
+**[Transformers for NLP and Chatbots](https://github.com/Cosminius/Transformers-for-NLP-and-Chatbots)**
+
+The main Transformer families in PyTorch and Hugging Face, from building one by hand to fine-tuning and aligning pretrained models:
+
+- **Transformer from scratch:** positional embeddings, multi-head attention and the full encoder-decoder implemented by hand, then trained for English to Spanish translation with a BPE tokenizer.
+- **BERT from scratch:** an encoder-only model pretrained with masked language modeling on WikiText-2, followed by sentence embeddings with the pretrained `bert-base-uncased`.
+- **Fine-tuning:** DistilBERT fine-tuned for sentiment classification on IMDb reviews, and GPT-2 fine-tuned on Shakespeare to generate text in his style.
+- **Alignment:** GPT-2 aligned in two stages with TRL, supervised fine-tuning on Alpaca and then DPO on Anthropic HH-RLHF.
+- **Movie-expert chatbot with RAG:** the plots of 35,000 Wikipedia movies are embedded with SBERT. For each question, the 5 most similar plots are added to the prompt, and Qwen answers as a film critic, remembering the conversation across turns.
+
 **[Time Series Forecasting with RNNs and CNNs](https://github.com/Cosminius/Processing_Seqeunces_with_RNNs_and_CNNs)**
 
 Predicts daily bus and train ridership in Chicago, from naive and SARIMA baselines to LSTM, GRU and WaveNet-style models. Also includes sketch recognition and a "yes"/"no" classifier on my own audio recordings.
