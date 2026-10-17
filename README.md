@@ -1,6 +1,6 @@
 # Portfolio
 
-Here you can find links to my most relevant projects. Click on a project's name to open it.
+I'm a master's student at Babeș-Bolyai University in Cluj-Napoca, working on LLMs, retrieval-augmented generation and knowledge graphs. Below are my most relevant projects; click on a project's name to open it.
 
 ## Table of Contents
 
@@ -64,4 +64,4 @@ Takes restaurant orders on the web (ASP.NET) and on mobile (.NET MAUI).
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/rosculet-cosmin)
+[GitHub](https://github.com/Cosminius) · [LinkedIn](https://linkedin.com/in/rosculet-cosmin)
