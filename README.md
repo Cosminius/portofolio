@@ -15,7 +15,7 @@ Here you can find links to my most relevant projects. Click on a project's name 
 
 Code for my paper with Gheorghe Cosmin Silaghi. A BERT cross-encoder reranks the top 50 answers of a SimKGC bi-encoder, and the two scores are combined with one weight per cardinality bin. It improves MRR on all three benchmarks, for example from 67.1 to 73.9 on WN18RR.
 
-**Oscar RAG: Graph RAG vs. Text RAG** (link not public yet)
+**[Oscar RAG: Graph RAG vs. Text RAG] (https://github.com/grnln/OscarRAG)**
 
 A local app that answers questions about the 2026 Oscars in two ways: a local LLM writes SPARQL queries over a knowledge graph, or the app searches text with Weaviate and a reranker. It refuses to answer when it finds nothing relevant.
 
